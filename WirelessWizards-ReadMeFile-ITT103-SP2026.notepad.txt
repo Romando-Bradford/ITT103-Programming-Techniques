@@ -1,10 +1,11 @@
 Authors:Adean White, Romando Bradford
 Date Created:March 31, 2026
 Course: ITT103
-GitHub Public URL to Code:
+GitHub Public URL to Code:https://github.com/Romando-Bradford/ITT103-Programming-Techniques
 
 #Code Usage: Pycharm and software with similar background can be used to execute this code.
-#No modification is necessary.This program is a simple POS system for a retailer store. 
+#No modification is necessary.
+#This program is a simple POS system for a retailer store. 
 #Its key functions is to check products in stock, generate a cart for users to add, remove
 #and checkout items. Calculations are done for the cost, discounts and taxes. 
 #as well as eligibility for a printed receipt.
